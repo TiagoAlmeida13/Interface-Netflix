@@ -13,7 +13,7 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/TiagoAlmeida13/Animated-show-hidden-input-password/stargazers">
+   <a href="https://github.com/TiagoAlmeida13/Interface-Netflix/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/TiagoAlmeida13/Interface-Netflix?style=social">
   </a>
 </p>
